@@ -1,0 +1,22 @@
+{
+    "media": [
+        {
+            "characterRegex": "[:0-9. )Nolapsyet]",
+            "defName": "FONT_DEJAVU_SANS_SUBSET_18",
+            "type": "font",
+            "file": "fonts/DejaVuSans.ttf"
+        },
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_DEJAVU_SANS_BOLD_SUBSET_30",
+            "type": "font",
+            "file": "fonts/DejaVuSans-Bold.ttf"
+        },
+        {
+            "defName": "IMAGE_BUTTON_LABELS",
+            "type": "png",
+            "file": "images/buttons.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
